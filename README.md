@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there, I'm Ashley! 👋<br><br>I'm a student passionate about data analytics, proficient in Python and SQL. I love turning data into actionable insights and creating meaningful visualizations.<br>🌟 Skills<br>- **Programming Languages**: Python, SQL<br>- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn<br>- **Machine Learning**: scikit-learn<br>- **Databases**: MySQL, PostgreSQL, SQLite<br>- **Tools**: Jupyter Notebooks, Power BI, Excel, Tableau<br>📚 Currently Learning<br>- Advanced Machine Learning techniques<br>- Data Visualization tools (Power BI, Tableau)<br>- Big Data technologies (Hadoop, Spark)<br>
+Hi there, I'm Ashley! 👋<br><br>I'm a student passionate about data analytics, proficient in Python and SQL. I love turning data into actionable insights and creating meaningful visualizations.<br>🌟 Skills<br>- **Programming Languages**: Python, SQL<br>- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn<br>- **Machine Learning**: scikit-learn<br>- **Databases**: MySQL, PostgreSQL, SQLite<br>- **Tools**: Jupyter Notebooks, Power BI, Excel, Tableau<br>📚 Currently Learning<br>- Advanced Machine Learning techniques<br>- Data Visualization tools (Power BI, Tableau)<br>- Big Data technologies (Hadoop, Spark)<br> ### 🛠️ Projects
+- **[Netflix Data Analysis](https://github.com/yourusername/netflix-data-analysis)**: An exploratory data analysis of Netflix movies from the 1990s using Python.
+- **[Avocado Prices Analysis](https://github.com/yourusername/avocado-prices-analysis)**: Analyzing the impact of missing values on distributions using histograms.
+- **[SAT Scores Analysis](https://github.com/yourusername/sat-scores-analysis)**: Data analysis of SAT scores across various schools to identify trends and patterns.
+- **[Financial Predictions](https://github.com/yourusername/financial-predictions)**: Using normal distributions and simulations to predict sales amounts and volatility.
+
+---
 
 
 # 💻 Tech Stack:
