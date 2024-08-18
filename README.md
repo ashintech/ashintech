@@ -9,7 +9,18 @@ Hi there, I'm Ashley! 👋<br><br>I'm a student passionate about data analytics,
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashley Babrah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ashley Babrah)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashintech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ashintech&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 📊 GitHub Stats:
