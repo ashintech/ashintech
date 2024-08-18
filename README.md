@@ -9,7 +9,7 @@ Hi there, I'm Ashley! 👋<br><br>I'm a student passionate about data analytics,
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)(https://medium.com/@Ashley Babrah) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)
 
 
 # 📊 GitHub Stats:
